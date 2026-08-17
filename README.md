@@ -12,13 +12,21 @@
 
 ## 🚀 Project Overview
 
-This project simulates a **real-world Sephora India retail data platform** designed to process customer, product, store and transaction data at scale.
+## 📊 Live Tableau Dashboard
 
-The pipeline ingests raw CSV datasets, performs data-quality validation and business transformations using **PySpark**, stores curated data in **Parquet**, loads analytical data into a **MySQL star-schema warehouse**, and exposes business metrics through SQL views and Tableau.
+Explore the interactive **Sephora India Retail Analytics Dashboard**:
 
-The goal is to demonstrate how a Data Engineer builds a complete pipeline from:
+👉 **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/aarti.rathod2366/viz/Sephora_India_Analytics/Dashboard2?publish=yes)**
 
-**Raw Data → ETL → Data Quality → Data Warehouse → Analytics → BI**
+The dashboard includes:
+
+- 💰 Revenue & KPI overview
+- 📈 Monthly revenue trends
+- 🛍️ Category performance
+- 🌐 Online vs Physical Store performance
+- 🏆 Top-performing products
+- 🏬 Store performance
+- 👥 Customer & loyalty analysis
 
 ---
 
