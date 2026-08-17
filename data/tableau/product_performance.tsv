@@ -1,0 +1,151 @@
+product_id	product_name	brand	category	total_orders	units_sold	revenue_inr	avg_discount_percent
+P1001	Too Faced Eyeshadow Palette	Too Faced	Makeup	820	1620	3855087.50	10.13
+P1002	Kérastase Hydrating Lip Gloss	Kérastase	Makeup	859	1737	1711765.00	10.24
+P1003	Laneige Full Coverage Concealer	Laneige	Makeup	854	1701	8285907.50	10.57
+P1004	Rare Beauty Professional Eyelash Curler	Rare Beauty	Tools & Brushes	884	1767	5119887.50	10.72
+P1005	Benefit Cosmetics Shimmer Body Mist	Benefit Cosmetics	Fragrance	788	1576	7425862.50	10.16
+P1006	The Ordinary Exfoliating Body Scrub	The Ordinary	Bath & Body	797	1597	4144245.00	10.43
+P1007	NARS Mini Eyeshadow Palette	NARS	Makeup	801	1591	6318840.00	9.83
+P1008	MAC Matte Lipstick	MAC	Makeup	833	1658	3503732.50	10.03
+P1009	Clinique Water Lip Tint	Clinique	Makeup	821	1626	5544770.00	10.00
+P1010	MAC Hydrating Body Lotion	MAC	Bath & Body	815	1639	3549720.00	9.87
+P1011	Sol de Janeiro Repair Conditioner	Sol de Janeiro	Haircare	820	1616	4912320.00	10.66
+P1012	Estée Lauder Volumizing Mascara	Estée Lauder	Makeup	833	1678	1661550.00	9.98
+P1013	Laneige Hydrating Eye Cream	Laneige	Skincare	817	1659	7375500.00	10.41
+P1014	Too Faced Gentle Cleanser	Too Faced	Skincare	843	1682	6530002.50	10.69
+P1015	Laneige Hydrating Hand Cream	Laneige	Bath & Body	800	1629	2249360.00	10.71
+P1016	MAC Eyeshadow Palette	MAC	Makeup	895	1813	3090350.00	10.03
+P1017	Huda Beauty Sugar Body Scrub	Huda Beauty	Bath & Body	913	1834	6042392.50	9.91
+P1018	Dior Shimmer Eyeshadow	Dior	Makeup	852	1706	6582655.00	10.17
+P1019	Sol de Janeiro Makeup Sponge	Sol de Janeiro	Tools & Brushes	836	1695	760950.00	10.21
+P1020	Estée Lauder Compact Beauty Mirror	Estée Lauder	Beauty Accessories	809	1630	3653625.00	10.36
+P1021	Rare Beauty Gel Moisturizer	Rare Beauty	Skincare	809	1586	2577330.00	9.69
+P1022	Sephora Collection Citrus Eau de Toilette	Sephora Collection	Fragrance	852	1694	5895240.00	10.75
+P1023	NARS Smoothing Conditioner	NARS	Haircare	864	1769	2385300.00	10.15
+P1024	MAC Gentle Cleanser	MAC	Skincare	821	1642	5605380.00	9.99
+P1025	Dior Makeup Sponge	Dior	Tools & Brushes	833	1650	3259300.00	10.16
+P1026	Sol de Janeiro Hydrating Hand Cream	Sol de Janeiro	Bath & Body	826	1624	5845000.00	9.98
+P1027	Huda Beauty Fragrance Body Mist	Huda Beauty	Fragrance	879	1771	15179247.50	10.19
+P1028	NARS Volumizing Mascara	NARS	Makeup	841	1682	1670295.00	9.63
+P1029	Laneige Scalp Treatment Oil	Laneige	Haircare	835	1687	6754432.50	10.09
+P1030	Rare Beauty Hydrating Conditioner	Rare Beauty	Haircare	822	1626	5266080.00	10.05
+P1031	Kérastase Nourishing Body Lotion	Kérastase	Bath & Body	858	1704	5589975.00	10.17
+P1032	Too Faced Lengthening Mascara	Too Faced	Makeup	812	1650	4535502.50	9.85
+P1033	Sol de Janeiro Invisible Sunscreen	Sol de Janeiro	Skincare	811	1605	2383342.50	10.06
+P1034	Rare Beauty Hydrating Lipstick	Rare Beauty	Makeup	880	1769	10131840.00	10.34
+P1035	Dior Liquid Foundation	Dior	Makeup	803	1601	8175510.00	10.54
+P1036	Estée Lauder Nail Strengthener	Estée Lauder	Nails	883	1805	2829575.00	10.39
+P1037	Dior Sugar Body Scrub	Dior	Bath & Body	863	1709	5519880.00	10.34
+P1038	Clinique Hydrating Moisturizer	Clinique	Skincare	799	1616	3127820.00	9.91
+P1039	The Ordinary Waterproof Mascara	The Ordinary	Makeup	828	1660	1859562.50	10.33
+P1040	Fenty Beauty Vitamin C Serum	Fenty Beauty	Skincare	810	1614	1884935.00	10.20
+P1041	NARS Hydrating Conditioner	NARS	Haircare	856	1690	7002350.00	9.87
+P1042	MAC Plumping Lip Gloss	MAC	Makeup	788	1570	6494510.00	10.13
+P1043	Laneige Hydrating Eye Cream	Laneige	Skincare	841	1689	3724980.00	9.89
+P1044	Sol de Janeiro Matte Lipstick	Sol de Janeiro	Makeup	810	1671	7309435.00	9.75
+P1045	Benefit Cosmetics Hydrating Eye Cream	Benefit Cosmetics	Skincare	867	1727	10437187.50	10.34
+P1046	Benefit Cosmetics Refreshing Body Wash	Benefit Cosmetics	Bath & Body	812	1642	5159525.00	10.17
+P1047	Dior Full Coverage Foundation	Dior	Makeup	885	1804	8279850.00	9.84
+P1048	Fenty Beauty Lip & Cheek Tint	Fenty Beauty	Makeup	843	1685	2814775.00	9.67
+P1049	Fenty Beauty Hydrating Eye Cream	Fenty Beauty	Skincare	849	1651	5765955.00	10.41
+P1050	Sephora Collection Nourishing Hair Oil	Sephora Collection	Haircare	829	1669	4667825.00	9.84
+P1051	NARS Makeup Sponge	NARS	Tools & Brushes	811	1641	1029175.00	10.22
+P1052	Kérastase Creamy Body Wash	Kérastase	Bath & Body	777	1538	2072550.00	10.05
+P1053	MAC Hydrating Body Lotion	MAC	Bath & Body	824	1657	3339675.00	10.43
+P1054	Dior Blush Brush	Dior	Tools & Brushes	852	1700	5266770.00	10.12
+P1055	Benefit Cosmetics Foundation Brush	Benefit Cosmetics	Tools & Brushes	844	1698	4343115.00	10.23
+P1056	Rare Beauty Nourishing Hair Oil	Rare Beauty	Haircare	816	1627	7951822.50	10.09
+P1057	Estée Lauder Repair Shampoo	Estée Lauder	Haircare	865	1713	6029985.00	10.09
+P1058	The Ordinary SPF 50 Sunscreen	The Ordinary	Skincare	788	1589	3641017.50	10.37
+P1059	Sephora Collection Hydrating Hand Cream	Sephora Collection	Bath & Body	842	1685	2135910.00	9.68
+P1060	NARS Repair Hair Mask	NARS	Haircare	817	1612	6965280.00	10.12
+P1061	Kérastase Compact Beauty Mirror	Kérastase	Beauty Accessories	813	1611	3325225.00	10.41
+P1062	The Ordinary Hydrating Foundation	The Ordinary	Makeup	796	1607	5214755.00	10.97
+P1063	Dior Shimmer Eyeshadow	Dior	Makeup	868	1745	4391240.00	10.14
+P1064	Laneige Anti-Frizz Hair Serum	Laneige	Haircare	867	1723	5663522.50	10.01
+P1065	Fenty Beauty Floral Eau de Parfum	Fenty Beauty	Fragrance	839	1705	20107665.00	10.13
+P1066	Sol de Janeiro Citrus Eau de Toilette	Sol de Janeiro	Fragrance	837	1622	11841542.50	10.39
+P1067	Fenty Beauty Plumping Lip Gloss	Fenty Beauty	Makeup	800	1630	7479660.00	10.06
+P1068	Rare Beauty Signature Eau de Parfum	Rare Beauty	Fragrance	866	1725	7765750.00	9.82
+P1069	Kérastase Hydrating Lipstick	Kérastase	Makeup	804	1647	7281645.00	9.87
+P1070	MAC Repair Conditioner	MAC	Haircare	823	1647	7984710.00	10.20
+P1071	Rare Beauty Repair Shampoo	Rare Beauty	Haircare	833	1697	8319152.50	10.02
+P1072	Benefit Cosmetics Mini Eyeshadow Palette	Benefit Cosmetics	Makeup	849	1699	9165600.00	10.18
+P1073	Huda Beauty Citrus Eau de Toilette	Huda Beauty	Fragrance	842	1678	19528665.00	9.94
+P1074	Too Faced Professional Eyelash Curler	Too Faced	Tools & Brushes	852	1713	4998012.50	10.35
+P1075	MAC Scalp Treatment Oil	MAC	Haircare	895	1781	4024375.00	9.71
+P1076	The Ordinary Hydrating Conditioner	The Ordinary	Haircare	839	1651	4444050.00	10.17
+P1077	Too Faced Hydrating Shampoo	Too Faced	Haircare	857	1747	3065887.50	9.81
+P1078	Kérastase Shimmer Body Mist	Kérastase	Fragrance	859	1732	5048875.00	10.35
+P1079	Kérastase Full Coverage Concealer	Kérastase	Makeup	841	1701	6019405.00	10.26
+P1080	Sol de Janeiro Blush Brush	Sol de Janeiro	Tools & Brushes	813	1623	1751340.00	10.24
+P1081	Too Faced Shimmer Body Mist	Too Faced	Fragrance	864	1705	7069280.00	9.91
+P1082	Huda Beauty Brightening Concealer	Huda Beauty	Makeup	810	1640	6642675.00	9.83
+P1083	Benefit Cosmetics Foaming Cleanser	Benefit Cosmetics	Skincare	846	1706	1696365.00	9.77
+P1084	Rare Beauty Citrus Eau de Toilette	Rare Beauty	Fragrance	826	1670	20660750.00	9.94
+P1085	Too Faced Nail Strengthener	Too Faced	Nails	793	1576	3102330.00	10.48
+P1086	Laneige Powder Blush	Laneige	Makeup	867	1773	3416565.00	10.48
+P1087	Huda Beauty Nail Strengthener	Huda Beauty	Nails	820	1610	1664912.50	9.88
+P1088	Rare Beauty Vitamin C Serum	Rare Beauty	Skincare	825	1632	8827200.00	9.99
+P1089	Huda Beauty Brightening Concealer	Huda Beauty	Makeup	883	1784	8360040.00	9.85
+P1090	Too Faced Satin Lipstick	Too Faced	Makeup	825	1628	9036500.00	10.48
+P1091	Rare Beauty Shimmer Eyeshadow	Rare Beauty	Makeup	838	1661	1721722.50	9.79
+P1092	MAC Satin Lipstick	MAC	Makeup	896	1816	4984767.50	10.18
+P1093	The Ordinary Water Lip Tint	The Ordinary	Makeup	815	1595	7081470.00	10.37
+P1094	Too Faced Makeup Sponge	Too Faced	Tools & Brushes	845	1672	3232417.50	10.12
+P1095	Kérastase Cuticle Oil	Kérastase	Nails	807	1593	1929150.00	10.30
+P1096	Laneige Scalp Treatment Oil	Laneige	Haircare	834	1638	8566020.00	9.76
+P1097	Benefit Cosmetics Makeup Organizer	Benefit Cosmetics	Beauty Accessories	828	1658	3036255.00	10.56
+P1098	Fenty Beauty Nourishing Hair Oil	Fenty Beauty	Haircare	815	1638	3228170.00	10.49
+P1099	Sol de Janeiro Smoothing Conditioner	Sol de Janeiro	Haircare	838	1645	7530150.00	10.18
+P1100	Laneige Plumping Lip Gloss	Laneige	Makeup	816	1645	5124802.50	9.74
+P1101	Fenty Beauty Refreshing Body Wash	Fenty Beauty	Bath & Body	779	1576	5752012.50	9.69
+P1102	Clinique Gel Effect Nail Polish	Clinique	Nails	868	1734	2036450.00	9.84
+P1103	Laneige Clay Face Mask	Laneige	Skincare	836	1655	8158975.00	10.43
+P1104	Estée Lauder Anti-Frizz Hair Serum	Estée Lauder	Haircare	876	1737	3438490.00	9.86
+P1105	Clinique Hydrating Foundation	Clinique	Makeup	804	1596	1647835.00	10.35
+P1106	Estée Lauder Beauty Travel Case	Estée Lauder	Beauty Accessories	820	1639	736250.00	9.87
+P1107	Sephora Collection Fragrance Body Mist	Sephora Collection	Fragrance	831	1656	8436855.00	10.51
+P1108	NARS Hydrating Hand Cream	NARS	Bath & Body	797	1550	6049110.00	10.14
+P1109	Laneige Signature Eau de Parfum	Laneige	Fragrance	829	1670	6020200.00	9.87
+P1110	Kérastase Volume Shampoo	Kérastase	Haircare	843	1688	5822355.00	10.31
+P1111	Huda Beauty Blending Sponge	Huda Beauty	Tools & Brushes	859	1741	3833515.00	10.20
+P1112	MAC Hydrating Eye Cream	MAC	Skincare	868	1736	2026245.00	10.16
+P1113	Kérastase Vitamin C Serum	Kérastase	Skincare	868	1723	5689072.50	9.63
+P1114	Too Faced Hydrating Shampoo	Too Faced	Haircare	793	1607	4067980.00	9.62
+P1115	Kérastase Repair Hair Mask	Kérastase	Haircare	821	1598	2438055.00	10.15
+P1116	Sephora Collection Hydrating Moisturizer	Sephora Collection	Skincare	846	1745	2906997.50	10.21
+P1117	NARS Smoothing Hair Serum	NARS	Haircare	828	1651	5862392.50	10.05
+P1118	NARS Makeup Organizer	NARS	Beauty Accessories	805	1598	3449640.00	10.13
+P1119	NARS Repair Hair Mask	NARS	Haircare	793	1618	3570017.50	9.97
+P1120	Rare Beauty Nourishing Hair Oil	Rare Beauty	Haircare	867	1776	9262020.00	10.14
+P1121	Huda Beauty Nourishing Hair Oil	Huda Beauty	Haircare	862	1678	5654250.00	10.10
+P1122	The Ordinary Nourishing Body Lotion	The Ordinary	Bath & Body	811	1623	4008950.00	10.15
+P1123	MAC Makeup Organizer	MAC	Beauty Accessories	826	1664	2617125.00	10.10
+P1124	Clinique Plumping Lip Gloss	Clinique	Makeup	846	1655	4385027.50	10.17
+P1125	Kérastase Radiant Foundation	Kérastase	Makeup	824	1657	1775640.00	10.69
+P1126	Laneige Professional Eyelash Curler	Laneige	Tools & Brushes	841	1661	2022502.50	9.92
+P1127	MAC Eyeshadow Palette	MAC	Makeup	866	1773	7571975.00	10.10
+P1128	NARS Radiant Foundation	NARS	Makeup	802	1562	3224370.00	10.19
+P1129	Dior Gel Moisturizer	Dior	Skincare	835	1667	8008415.00	10.17
+P1130	Sol de Janeiro Nail Strengthener	Sol de Janeiro	Nails	840	1694	1443667.50	10.29
+P1131	Rare Beauty Hydrating Lipstick	Rare Beauty	Makeup	842	1678	9000862.50	9.89
+P1132	Clinique Nourishing Hair Oil	Clinique	Haircare	804	1596	8025920.00	10.40
+P1133	Fenty Beauty Gel Moisturizer	Fenty Beauty	Skincare	807	1614	5566907.50	10.28
+P1134	Dior Sugar Body Scrub	Dior	Bath & Body	835	1702	4219600.00	9.86
+P1135	Sephora Collection Hydrating Shampoo	Sephora Collection	Haircare	823	1616	4367850.00	9.98
+P1136	Benefit Cosmetics Beauty Travel Case	Benefit Cosmetics	Beauty Accessories	849	1748	3299415.00	10.39
+P1137	Fenty Beauty Professional Eyelash Curler	Fenty Beauty	Tools & Brushes	827	1669	5104250.00	10.10
+P1138	Rare Beauty Hydrating Lipstick	Rare Beauty	Makeup	843	1679	3861465.00	9.81
+P1139	The Ordinary Shimmer Body Mist	The Ordinary	Fragrance	841	1709	16167900.00	9.97
+P1140	NARS Cream Blush	NARS	Makeup	840	1642	3532440.00	10.14
+P1141	Rare Beauty Makeup Sponge	Rare Beauty	Tools & Brushes	815	1594	3591250.00	9.85
+P1142	Sephora Collection Signature Eau de Parfum	Sephora Collection	Fragrance	865	1760	10522295.00	9.99
+P1143	Laneige Makeup Sponge	Laneige	Tools & Brushes	841	1680	3252520.00	9.91
+P1144	Estée Lauder Hydrating Lip Gloss	Estée Lauder	Makeup	788	1586	4723785.00	9.60
+P1145	Sol de Janeiro Hydrating Moisturizer	Sol de Janeiro	Skincare	775	1581	6915615.00	10.01
+P1146	MAC Gel Effect Nail Polish	MAC	Nails	795	1595	3157330.00	10.18
+P1147	Kérastase Woody Eau de Parfum	Kérastase	Fragrance	869	1762	18052315.00	9.44
+P1148	Laneige Nail Strengthener	Laneige	Nails	850	1720	2608650.00	10.98
+P1149	Kérastase Full Coverage Concealer	Kérastase	Makeup	864	1772	4201442.50	10.57
+P1150	Rare Beauty Makeup Organizer	Rare Beauty	Beauty Accessories	828	1705	1838400.00	10.07

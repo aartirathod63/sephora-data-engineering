@@ -1,0 +1,151 @@
+product_id,product_name,brand,category,subcategory,mrp_inr,rating,review_count,size,stock_quantity
+P1001,Too Faced Eyeshadow Palette,Too Faced,Makeup,Eyeshadow,2650,4.1,1168,7 ml,397
+P1002,Kérastase Hydrating Lip Gloss,Kérastase,Makeup,Lip Gloss,1100,3.8,1816,150 ml,139
+P1003,Laneige Full Coverage Concealer,Laneige,Makeup,Concealer,5450,4.5,4489,15 ml,234
+P1004,Rare Beauty Professional Eyelash Curler,Rare Beauty,Tools & Brushes,Eyelash Curler,3250,3.8,1332,75 ml,377
+P1005,Benefit Cosmetics Shimmer Body Mist,Benefit Cosmetics,Fragrance,Body Mist,5250,4.9,2782,7 ml,72
+P1006,The Ordinary Exfoliating Body Scrub,The Ordinary,Bath & Body,Body Scrub,2900,4.5,380,100 ml,393
+P1007,NARS Mini Eyeshadow Palette,NARS,Makeup,Eyeshadow,4400,4.1,2987,15 ml,315
+P1008,MAC Matte Lipstick,MAC,Makeup,Lipstick,2350,4.7,678,15 ml,457
+P1009,Clinique Water Lip Tint,Clinique,Makeup,Lip Tint,3800,4.5,3013,50 ml,103
+P1010,MAC Hydrating Body Lotion,MAC,Bath & Body,Body Lotion,2400,4.6,609,10 ml,331
+P1011,Sol de Janeiro Repair Conditioner,Sol de Janeiro,Haircare,Conditioner,3400,4.1,4587,50 ml,132
+P1012,Estée Lauder Volumizing Mascara,Estée Lauder,Makeup,Mascara,1100,4.7,3311,7 ml,157
+P1013,Laneige Hydrating Eye Cream,Laneige,Skincare,Eye Cream,4950,4.3,3783,30 ml,93
+P1014,Too Faced Gentle Cleanser,Too Faced,Skincare,Cleanser,4350,4.4,4813,200 ml,239
+P1015,Laneige Hydrating Hand Cream,Laneige,Bath & Body,Hand Cream,1550,4.4,769,5 ml,406
+P1016,MAC Eyeshadow Palette,MAC,Makeup,Eyeshadow,1900,4.7,3483,7 ml,325
+P1017,Huda Beauty Sugar Body Scrub,Huda Beauty,Bath & Body,Body Scrub,3650,4.4,4557,5 ml,460
+P1018,Dior Shimmer Eyeshadow,Dior,Makeup,Eyeshadow,4300,4.6,2811,30 ml,77
+P1019,Sol de Janeiro Makeup Sponge,Sol de Janeiro,Tools & Brushes,Beauty Sponge,500,4.8,2182,10 ml,276
+P1020,Estée Lauder Compact Beauty Mirror,Estée Lauder,Beauty Accessories,Mirror,2500,4.1,4183,15 ml,331
+P1021,Rare Beauty Gel Moisturizer,Rare Beauty,Skincare,Moisturizer,1800,4.4,4369,5 ml,490
+P1022,Sephora Collection Citrus Eau de Toilette,Sephora Collection,Fragrance,Eau de Toilette,3900,4.8,2544,5 ml,142
+P1023,NARS Smoothing Conditioner,NARS,Haircare,Conditioner,1500,4.6,591,150 ml,409
+P1024,MAC Gentle Cleanser,MAC,Skincare,Cleanser,3800,4.8,1377,150 ml,155
+P1025,Dior Makeup Sponge,Dior,Tools & Brushes,Beauty Sponge,2200,4.6,1672,30 ml,385
+P1026,Sol de Janeiro Hydrating Hand Cream,Sol de Janeiro,Bath & Body,Hand Cream,4000,4.3,2055,7 ml,135
+P1027,Huda Beauty Fragrance Body Mist,Huda Beauty,Fragrance,Body Mist,9550,4.1,1829,7 ml,23
+P1028,NARS Volumizing Mascara,NARS,Makeup,Mascara,1100,4.7,605,15 ml,283
+P1029,Laneige Scalp Treatment Oil,Laneige,Haircare,Hair Oil,4450,3.9,4702,100 ml,315
+P1030,Rare Beauty Hydrating Conditioner,Rare Beauty,Haircare,Conditioner,3600,4.0,819,75 ml,357
+P1031,Kérastase Nourishing Body Lotion,Kérastase,Bath & Body,Body Lotion,3650,4.8,468,7 ml,364
+P1032,Too Faced Lengthening Mascara,Too Faced,Makeup,Mascara,3050,4.7,920,15 ml,147
+P1033,Sol de Janeiro Invisible Sunscreen,Sol de Janeiro,Skincare,Sunscreen,1650,4.3,2306,15 ml,256
+P1034,Rare Beauty Hydrating Lipstick,Rare Beauty,Makeup,Lipstick,6400,4.7,827,150 ml,45
+P1035,Dior Liquid Foundation,Dior,Makeup,Foundation,5700,4.7,1387,100 ml,228
+P1036,Estée Lauder Nail Strengthener,Estée Lauder,Nails,Nail Care,1750,4.8,1373,5 ml,214
+P1037,Dior Sugar Body Scrub,Dior,Bath & Body,Body Scrub,3600,4.1,4577,100 ml,358
+P1038,Clinique Hydrating Moisturizer,Clinique,Skincare,Moisturizer,2150,4.9,4769,150 ml,396
+P1039,The Ordinary Waterproof Mascara,The Ordinary,Makeup,Mascara,1250,3.9,3930,150 ml,277
+P1040,Fenty Beauty Vitamin C Serum,Fenty Beauty,Skincare,Serum,1300,4.7,586,7 ml,324
+P1041,NARS Hydrating Conditioner,NARS,Haircare,Conditioner,4600,4.1,4895,200 ml,40
+P1042,MAC Plumping Lip Gloss,MAC,Makeup,Lip Gloss,4600,4.4,2616,30 ml,498
+P1043,Laneige Hydrating Eye Cream,Laneige,Skincare,Eye Cream,2450,4.2,2482,50 ml,254
+P1044,Sol de Janeiro Matte Lipstick,Sol de Janeiro,Makeup,Lipstick,4850,4.9,844,150 ml,57
+P1045,Benefit Cosmetics Hydrating Eye Cream,Benefit Cosmetics,Skincare,Eye Cream,6750,4.2,588,15 ml,470
+P1046,Benefit Cosmetics Refreshing Body Wash,Benefit Cosmetics,Bath & Body,Body Wash,3500,4.7,2503,150 ml,333
+P1047,Dior Full Coverage Foundation,Dior,Makeup,Foundation,5100,3.9,1125,7 ml,155
+P1048,Fenty Beauty Lip & Cheek Tint,Fenty Beauty,Makeup,Lip Tint,1850,4.1,4979,50 ml,127
+P1049,Fenty Beauty Hydrating Eye Cream,Fenty Beauty,Skincare,Eye Cream,3900,4.1,441,75 ml,67
+P1050,Sephora Collection Nourishing Hair Oil,Sephora Collection,Haircare,Hair Oil,3100,4.6,2170,100 ml,102
+P1051,NARS Makeup Sponge,NARS,Tools & Brushes,Beauty Sponge,700,4.8,1246,5 ml,299
+P1052,Kérastase Creamy Body Wash,Kérastase,Bath & Body,Body Wash,1500,3.8,3012,5 ml,480
+P1053,MAC Hydrating Body Lotion,MAC,Bath & Body,Body Lotion,2250,4.5,2922,150 ml,419
+P1054,Dior Blush Brush,Dior,Tools & Brushes,Makeup Brush,3450,4.1,1356,10 ml,429
+P1055,Benefit Cosmetics Foundation Brush,Benefit Cosmetics,Tools & Brushes,Makeup Brush,2850,4.8,3397,15 ml,430
+P1056,Rare Beauty Nourishing Hair Oil,Rare Beauty,Haircare,Hair Oil,5450,3.9,342,100 ml,459
+P1057,Estée Lauder Repair Shampoo,Estée Lauder,Haircare,Shampoo,3900,4.2,1889,5 ml,134
+P1058,The Ordinary SPF 50 Sunscreen,The Ordinary,Skincare,Sunscreen,2550,4.8,2311,150 ml,199
+P1059,Sephora Collection Hydrating Hand Cream,Sephora Collection,Bath & Body,Hand Cream,1400,4.8,2164,200 ml,111
+P1060,NARS Repair Hair Mask,NARS,Haircare,Hair Mask,4800,4.3,2594,200 ml,243
+P1061,Kérastase Compact Beauty Mirror,Kérastase,Beauty Accessories,Mirror,2300,4.0,388,75 ml,382
+P1062,The Ordinary Hydrating Foundation,The Ordinary,Makeup,Foundation,3650,3.9,2729,50 ml,339
+P1063,Dior Shimmer Eyeshadow,Dior,Makeup,Eyeshadow,2800,4.4,3370,75 ml,187
+P1064,Laneige Anti-Frizz Hair Serum,Laneige,Haircare,Hair Serum,3650,4.5,3130,10 ml,366
+P1065,Fenty Beauty Floral Eau de Parfum,Fenty Beauty,Fragrance,Eau de Parfum,13150,3.8,2375,75 ml,127
+P1066,Sol de Janeiro Citrus Eau de Toilette,Sol de Janeiro,Fragrance,Eau de Toilette,8150,4.5,4212,10 ml,262
+P1067,Fenty Beauty Plumping Lip Gloss,Fenty Beauty,Makeup,Lip Gloss,5100,4.5,2770,15 ml,67
+P1068,Rare Beauty Signature Eau de Parfum,Rare Beauty,Fragrance,Eau de Parfum,5000,4.0,403,100 ml,145
+P1069,Kérastase Hydrating Lipstick,Kérastase,Makeup,Lipstick,4900,4.4,3170,75 ml,273
+P1070,MAC Repair Conditioner,MAC,Haircare,Conditioner,5400,3.8,898,75 ml,418
+P1071,Rare Beauty Repair Shampoo,Rare Beauty,Haircare,Shampoo,5450,4.4,436,15 ml,305
+P1072,Benefit Cosmetics Mini Eyeshadow Palette,Benefit Cosmetics,Makeup,Eyeshadow,6000,4.3,4376,200 ml,306
+P1073,Huda Beauty Citrus Eau de Toilette,Huda Beauty,Fragrance,Eau de Toilette,12900,4.6,4160,150 ml,238
+P1074,Too Faced Professional Eyelash Curler,Too Faced,Tools & Brushes,Eyelash Curler,3250,4.3,2148,15 ml,404
+P1075,MAC Scalp Treatment Oil,MAC,Haircare,Hair Oil,2500,4.1,659,30 ml,385
+P1076,The Ordinary Hydrating Conditioner,The Ordinary,Haircare,Conditioner,3000,4.8,685,10 ml,90
+P1077,Too Faced Hydrating Shampoo,Too Faced,Haircare,Shampoo,1950,4.6,551,75 ml,232
+P1078,Kérastase Shimmer Body Mist,Kérastase,Fragrance,Body Mist,3250,4.0,3466,200 ml,219
+P1079,Kérastase Full Coverage Concealer,Kérastase,Makeup,Concealer,3950,3.8,2906,75 ml,172
+P1080,Sol de Janeiro Blush Brush,Sol de Janeiro,Tools & Brushes,Makeup Brush,1200,4.1,4003,75 ml,34
+P1081,Too Faced Shimmer Body Mist,Too Faced,Fragrance,Body Mist,4600,4.7,1070,150 ml,338
+P1082,Huda Beauty Brightening Concealer,Huda Beauty,Makeup,Concealer,4500,4.5,712,75 ml,349
+P1083,Benefit Cosmetics Foaming Cleanser,Benefit Cosmetics,Skincare,Cleanser,1100,4.1,2706,100 ml,128
+P1084,Rare Beauty Citrus Eau de Toilette,Rare Beauty,Fragrance,Eau de Toilette,13750,4.2,3478,7 ml,149
+P1085,Too Faced Nail Strengthener,Too Faced,Nails,Nail Care,2200,3.9,2891,7 ml,134
+P1086,Laneige Powder Blush,Laneige,Makeup,Blush,2150,4.7,1273,10 ml,142
+P1087,Huda Beauty Nail Strengthener,Huda Beauty,Nails,Nail Care,1150,4.3,2124,50 ml,412
+P1088,Rare Beauty Vitamin C Serum,Rare Beauty,Skincare,Serum,6000,4.0,2573,200 ml,75
+P1089,Huda Beauty Brightening Concealer,Huda Beauty,Makeup,Concealer,5200,4.8,3099,15 ml,223
+P1090,Too Faced Satin Lipstick,Too Faced,Makeup,Lipstick,6200,4.5,859,30 ml,376
+P1091,Rare Beauty Shimmer Eyeshadow,Rare Beauty,Makeup,Eyeshadow,1150,4.2,3534,50 ml,358
+P1092,MAC Satin Lipstick,MAC,Makeup,Lipstick,3050,3.8,3466,100 ml,441
+P1093,The Ordinary Water Lip Tint,The Ordinary,Makeup,Lip Tint,4950,4.8,3791,10 ml,382
+P1094,Too Faced Makeup Sponge,Too Faced,Tools & Brushes,Beauty Sponge,2150,4.9,2237,150 ml,335
+P1095,Kérastase Cuticle Oil,Kérastase,Nails,Nail Care,1350,4.2,2036,7 ml,445
+P1096,Laneige Scalp Treatment Oil,Laneige,Haircare,Hair Oil,5800,4.3,3129,5 ml,192
+P1097,Benefit Cosmetics Makeup Organizer,Benefit Cosmetics,Beauty Accessories,Travel Case,2050,4.0,2141,30 ml,194
+P1098,Fenty Beauty Nourishing Hair Oil,Fenty Beauty,Haircare,Hair Oil,2200,3.9,3354,150 ml,270
+P1099,Sol de Janeiro Smoothing Conditioner,Sol de Janeiro,Haircare,Conditioner,5100,4.6,3696,5 ml,425
+P1100,Laneige Plumping Lip Gloss,Laneige,Makeup,Lip Gloss,3450,4.6,2533,200 ml,359
+P1101,Fenty Beauty Refreshing Body Wash,Fenty Beauty,Bath & Body,Body Wash,4050,4.2,4533,50 ml,189
+P1102,Clinique Gel Effect Nail Polish,Clinique,Nails,Nail Polish,1300,4.1,1602,7 ml,181
+P1103,Laneige Clay Face Mask,Laneige,Skincare,Face Mask,5500,4.3,4854,150 ml,409
+P1104,Estée Lauder Anti-Frizz Hair Serum,Estée Lauder,Haircare,Hair Serum,2200,4.1,2981,30 ml,111
+P1105,Clinique Hydrating Foundation,Clinique,Makeup,Foundation,1150,4.9,4558,10 ml,169
+P1106,Estée Lauder Beauty Travel Case,Estée Lauder,Beauty Accessories,Travel Case,500,4.4,3870,100 ml,265
+P1107,Sephora Collection Fragrance Body Mist,Sephora Collection,Fragrance,Body Mist,5700,4.8,3938,7 ml,78
+P1108,NARS Hydrating Hand Cream,NARS,Bath & Body,Hand Cream,4350,4.5,464,10 ml,97
+P1109,Laneige Signature Eau de Parfum,Laneige,Fragrance,Eau de Parfum,4000,4.4,3434,200 ml,330
+P1110,Kérastase Volume Shampoo,Kérastase,Haircare,Shampoo,3850,4.8,2460,200 ml,460
+P1111,Huda Beauty Blending Sponge,Huda Beauty,Tools & Brushes,Beauty Sponge,2450,3.9,837,15 ml,410
+P1112,MAC Hydrating Eye Cream,MAC,Skincare,Eye Cream,1300,4.0,1448,7 ml,302
+P1113,Kérastase Vitamin C Serum,Kérastase,Skincare,Serum,3650,4.6,3874,5 ml,169
+P1114,Too Faced Hydrating Shampoo,Too Faced,Haircare,Shampoo,2800,4.6,3744,15 ml,56
+P1115,Kérastase Repair Hair Mask,Kérastase,Haircare,Hair Mask,1700,4.4,1245,30 ml,485
+P1116,Sephora Collection Hydrating Moisturizer,Sephora Collection,Skincare,Moisturizer,1850,4.7,4899,200 ml,403
+P1117,NARS Smoothing Hair Serum,NARS,Haircare,Hair Serum,3950,4.6,3322,150 ml,159
+P1118,NARS Makeup Organizer,NARS,Beauty Accessories,Travel Case,2400,3.8,3564,50 ml,396
+P1119,NARS Repair Hair Mask,NARS,Haircare,Hair Mask,2450,4.9,4737,5 ml,320
+P1120,Rare Beauty Nourishing Hair Oil,Rare Beauty,Haircare,Hair Oil,5800,4.0,4276,100 ml,353
+P1121,Huda Beauty Nourishing Hair Oil,Huda Beauty,Haircare,Hair Oil,3750,4.5,4053,100 ml,66
+P1122,The Ordinary Nourishing Body Lotion,The Ordinary,Bath & Body,Body Lotion,2750,4.5,1342,75 ml,188
+P1123,MAC Makeup Organizer,MAC,Beauty Accessories,Travel Case,1750,4.7,4531,100 ml,38
+P1124,Clinique Plumping Lip Gloss,Clinique,Makeup,Lip Gloss,2950,3.9,3336,150 ml,462
+P1125,Kérastase Radiant Foundation,Kérastase,Makeup,Foundation,1200,4.0,2988,100 ml,338
+P1126,Laneige Professional Eyelash Curler,Laneige,Tools & Brushes,Eyelash Curler,1350,4.4,2384,100 ml,244
+P1127,MAC Eyeshadow Palette,MAC,Makeup,Eyeshadow,4750,4.7,1322,150 ml,179
+P1128,NARS Radiant Foundation,NARS,Makeup,Foundation,2300,4.9,954,7 ml,256
+P1129,Dior Gel Moisturizer,Dior,Skincare,Moisturizer,5350,4.1,2264,100 ml,232
+P1130,Sol de Janeiro Nail Strengthener,Sol de Janeiro,Nails,Nail Care,950,4.2,4935,10 ml,280
+P1131,Rare Beauty Hydrating Lipstick,Rare Beauty,Makeup,Lipstick,5950,4.7,2809,150 ml,498
+P1132,Clinique Nourishing Hair Oil,Clinique,Haircare,Hair Oil,5600,4.1,4833,100 ml,316
+P1133,Fenty Beauty Gel Moisturizer,Fenty Beauty,Skincare,Moisturizer,3850,4.2,4546,150 ml,410
+P1134,Dior Sugar Body Scrub,Dior,Bath & Body,Body Scrub,2750,4.8,1981,75 ml,312
+P1135,Sephora Collection Hydrating Shampoo,Sephora Collection,Haircare,Shampoo,3000,4.6,3148,10 ml,217
+P1136,Benefit Cosmetics Beauty Travel Case,Benefit Cosmetics,Beauty Accessories,Travel Case,2100,4.9,2744,7 ml,465
+P1137,Fenty Beauty Professional Eyelash Curler,Fenty Beauty,Tools & Brushes,Eyelash Curler,3400,4.3,1205,10 ml,229
+P1138,Rare Beauty Hydrating Lipstick,Rare Beauty,Makeup,Lipstick,2550,4.2,3281,7 ml,352
+P1139,The Ordinary Shimmer Body Mist,The Ordinary,Fragrance,Body Mist,10500,4.6,4022,150 ml,466
+P1140,NARS Cream Blush,NARS,Makeup,Blush,2400,4.5,2379,7 ml,136
+P1141,Rare Beauty Makeup Sponge,Rare Beauty,Tools & Brushes,Beauty Sponge,2500,4.6,848,10 ml,247
+P1142,Sephora Collection Signature Eau de Parfum,Sephora Collection,Fragrance,Eau de Parfum,6650,4.7,2428,50 ml,203
+P1143,Laneige Makeup Sponge,Laneige,Tools & Brushes,Beauty Sponge,2150,4.3,1500,10 ml,107
+P1144,Estée Lauder Hydrating Lip Gloss,Estée Lauder,Makeup,Lip Gloss,3300,4.5,1997,200 ml,274
+P1145,Sol de Janeiro Hydrating Moisturizer,Sol de Janeiro,Skincare,Moisturizer,4850,4.1,2116,5 ml,361
+P1146,MAC Gel Effect Nail Polish,MAC,Nails,Nail Polish,2200,4.0,3643,200 ml,196
+P1147,Kérastase Woody Eau de Parfum,Kérastase,Fragrance,Eau de Parfum,11300,4.1,2499,75 ml,121
+P1148,Laneige Nail Strengthener,Laneige,Nails,Nail Care,1700,4.4,4733,30 ml,171
+P1149,Kérastase Full Coverage Concealer,Kérastase,Makeup,Concealer,2650,3.8,426,200 ml,486
+P1150,Rare Beauty Makeup Organizer,Rare Beauty,Beauty Accessories,Travel Case,1200,4.5,2911,15 ml,132

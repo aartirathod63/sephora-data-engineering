@@ -1,0 +1,6 @@
+store_id,store_name,city,state,mall,area,store_type
+ST001,Sephora Phoenix Marketcity Pune,Pune,Maharashtra,Phoenix Marketcity,Viman Nagar,Physical Store
+ST002,Sephora Phoenix Mall of the Millennium,Pune,Maharashtra,Phoenix Mall of the Millennium,Wakad,Physical Store
+ST003,Sephora Mumbai,Mumbai,Maharashtra,Premium Retail Location,Mumbai,Physical Store
+ST004,Sephora Bengaluru,Bengaluru,Karnataka,Premium Retail Location,Bengaluru,Physical Store
+ST005,Sephora Delhi,New Delhi,Delhi,Premium Retail Location,New Delhi,Physical Store

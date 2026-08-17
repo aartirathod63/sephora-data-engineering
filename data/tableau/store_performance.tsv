@@ -1,0 +1,6 @@
+store_id	store_name	city	area	total_orders	units_sold	revenue_inr	average_order_value_inr
+ST001	Sephora Phoenix Marketcity Pune	Pune	Viman Nagar	4519	22639	73246867.50	16208.65
+ST002	Sephora Phoenix Mall of the Millennium	Pune	Wakad	4485	22547	73655435.00	16422.62
+ST003	Sephora Mumbai	Mumbai	Mumbai	4469	22332	72192580.00	16154.08
+ST004	Sephora Bengaluru	Bengaluru	Bengaluru	4524	22713	73991397.50	16355.30
+ST005	Sephora Delhi	New Delhi	New Delhi	4597	22659	74083917.50	16115.71
