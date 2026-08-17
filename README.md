@@ -11,22 +11,25 @@
 ---
 
 ## 🚀 Project Overview
-
 ## 📊 Live Tableau Dashboard
 
-Explore the interactive **Sephora India Retail Analytics Dashboard**:
+### 🔗 [View Sephora India Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/aarti.rathod2366/viz/Sephora_India_Analytics/Dashboard2?publish=yes)
 
-👉 **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/aarti.rathod2366/viz/Sephora_India_Analytics/Dashboard2?publish=yes)**
+An interactive Tableau dashboard built on the curated analytical datasets generated through the PySpark + MySQL data engineering pipeline.
 
-The dashboard includes:
+### Dashboard Includes
 
-- 💰 Revenue & KPI overview
-- 📈 Monthly revenue trends
-- 🛍️ Category performance
-- 🌐 Online vs Physical Store performance
-- 🏆 Top-performing products
-- 🏬 Store performance
-- 👥 Customer & loyalty analysis
+- 💰 Revenue KPIs
+- 📈 Monthly Revenue Trends
+- 🛍️ Category Performance
+- 🌐 Online vs Physical Store Performance
+- 🏆 Top Product Analysis
+- 🏬 Store Performance
+- 👥 Customer & Loyalty Analysis
+- 💳 Average Order Value
+- 📊 Revenue Distribution
+
+> **Dashboard:** [Sephora India Analytics — Tableau Public](https://public.tableau.com/app/profile/aarti.rathod2366/viz/Sephora_India_Analytics/Dashboard2?publish=yes)
 
 ---
 
